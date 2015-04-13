@@ -10,4 +10,8 @@ Here you can find my Masters Thesis and its corresponding code. It was about  mu
 I studied the effect of varying Young modulus in the mode shapes of a beam (both axial and bending)
 
 ### ModosComplejos
-There you can find some code for trying to understand the effect of complex modes in noise radiation.
+There you can find some code for trying to understand the effect of complex modes in noise radiation. 
+
+Uses sphere3D.m that is not my work:
+
+J M De Freitas. SPHERE3D: A Matlab® Function to Plot 3-Dimensional Data on a Spherical Surface. QinetiQ Ltd, Winfrith Technology Centre, Winfrith,  Dorchester DT2 8XJ. UK. 15 September 2005.
