@@ -17,7 +17,7 @@ fprintf('PREDICTION OF KC USING RECEPTANCE')
 m1 = 1;
 m2 = 1;
 
-M = [m1 0; 0 m2]; % mass matrix = I 
+M = [m1 0; 0 m2]; 
 
 k1 = 2;
 k2 = 1;
